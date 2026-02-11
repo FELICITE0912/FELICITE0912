@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👩‍💻 Félicité Djieukam
 
-<!--
-**FELICITE0912/FELICITE0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Présentation
+Étudiante en Science des données, avec un intérêt particulier pour l’analyse et la modélisation de données.  
+À travers mes projets académiques, j’explore l’utilisation du langage Python pour analyser des jeux de données, identifier des tendances et communiquer clairement les résultats obtenus.
 
-Here are some ideas to get you started:
+Ce profil GitHub constitue mon portfolio professionnel dans le cadre de l’unité d’apprentissage de communication en entreprise.  
+Il met l’accent sur la clarté, la structure du travail et la qualité de la communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Compétences
+- Python  
+- Analyse de données  
+- Nettoyage et préparation de données  
+- Analyse exploratoire  
+- Visualisation de données  
+- Jupyter Notebook  
+- GitHub
+  
+
+##  Projet vedette
+
+### 📊 Analyse et modélisation de données criminelles
+**Objectif :**  
+Analyser et modéliser des données criminelles afin d’identifier les tendances, de comprendre les facteurs liés aux crimes et d’explorer la prédiction de certains comportements criminels.
+
+➡️ 🔗 **Lien vers le projet :**  
+https://github.com/TON_FELICITE0912/analyse-donnees-criminelles
+
+
+
+## 📫 Contact
+- GitHub : https://github.com/FELICITE0912
