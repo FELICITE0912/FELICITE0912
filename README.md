@@ -34,3 +34,4 @@ https://github.com/FELICITE0912/analyse-des-donnees-criminelles
 
 ## 📫 Contact
 - GitHub : https://github.com/FELICITE0912
+- Email : djieukamfelicite@gmail.com
