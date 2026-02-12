@@ -24,7 +24,7 @@ Il met l’accent sur la clarté, la structure du travail et la qualité de la c
 Analyser et modéliser des données criminelles afin d’identifier les tendances, de comprendre les facteurs liés aux crimes et d’explorer la prédiction de certains comportements criminels.
 
 ➡️ 🔗 **Lien vers le projet :**  
-https://github.com/FELICITE0912/analyse-des-donnees-criminelles/blob/main/Code_Projet_Analyse_de_donn%C3%A9es.ipynb
+https://github.com/FELICITE0912/analyse-des-donnees-criminelles/tree/main
 
 
 
