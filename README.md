@@ -30,8 +30,6 @@ Analyser et modéliser des données criminelles afin d’identifier les tendance
 ➡️ 🔗 **Lien vers le projet :**  
 https://github.com/FELICITE0912/analyse-des-donnees-criminelles
 
-https://github.com/FELICITE0912/Pneumonie
-
 
 
 ## 📫 Contact
